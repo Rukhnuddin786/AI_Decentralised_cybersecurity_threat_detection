@@ -22,8 +22,7 @@ export interface SecurityFix {
 
 export class GeminiService {
   private readonly apiKeys = [
-    "AIzaSyB_cP9uB1woeH1UTxhu0EeAamM804wndSU",
-    "AIzaSyDYiMqdh11VN9HnG3_Cyad3414eficVbGA"
+    "YOUR API KEYS"
   ];
   private currentKeyIndex = 0;
 
